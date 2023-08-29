@@ -1,0 +1,23 @@
+body {
+  background-color: pink;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+h1 {
+  text-align: center;
+}
+input {
+  font-size: 125%;
+}
+button,
+#agregarContacto {
+  padding: 5px;
+  margin: 10px;
+  background-color: violet;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+ul {
+  font-size: 100%;
+}
